@@ -17,3 +17,12 @@
 
 ### Python Practice
 [Python Practice Video](https://youtu.be/-h3FbWST1Cg)
+
+### Conda Environments
+[PID Controllers - Intro to Control Design](https://youtu.be/XyJ7596rcMY)
+
+[Autonomous Robots: Kalman Filter](https://youtu.be/2IoRmXJ8uZk)
+
+[Autonomous Robots: Model Predictive Control](https://youtu.be/q0GwXtK_JyU)
+
+[Autonomous Robots: Path Planning](https://youtu.be/_9DCszFbR3w)
